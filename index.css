@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+
+p{
+  line-height: 1.5;
+}
+.header-div{
+  padding: 7% 11%;
+}
+
+.btn{
+  margin-top: 5%;
+}
+
+.about-us,.features{
+  padding: 0 15%;
+  text-align: left;
+}
+.fa-anchor,.fa-coffee{
+  font-size: 7rem;
+}
+
+.fa-anchor{
+  color: #4caf50;
+}
+
+
+.features{
+  margin-top: 7% ;
+  margin-left: 0;
+  margin-right: auto;
+  background-color: #f1f1f1;
+  padding: 7% 25%;
+}
+
+.footer{
+  padding: 2%;
+  background-color: grey;
+}
